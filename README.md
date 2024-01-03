@@ -1,3 +1,7 @@
+Greetings!
+Being a Data Analyst, I'm Data Science addicted.
+
+
 - 👋 Hi, I’m @tariqulismail
 - 👀 I’m interested in DataScience
 - 🌱 I’m currently Working in Prime Bank Limited, Bangladesh as Assistant Vice President, Financial Data analysis & MIS reporting. 
