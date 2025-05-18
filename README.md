@@ -10,10 +10,10 @@
   <a href="https://github.com/tariqulismail">
     <img src="https://img.shields.io/github/followers/tariqulismail?label=Follow&style=social" />
   </a>
-  <a href="https://www.youtube.com/@devopsshack">
+  <a href="https://www.youtube.com/@CodePlay">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCL8GxFP1_XB2Wa8--UaMipw?style=social" />
   </a>
-  <a href="https://linkedin.com/in/adityajaiswal7">
+  <a href="https://linkedin.com/in/tariqulismail">
     <img src="https://img.shields.io/badge/LinkedIn-tariqulismail-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
@@ -26,7 +26,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/tariqulismail](https://github.com/tariqulismail)  
 - 💬 Ask me about **DevOps & Cloud DevOps**  
-- 📫 How to reach me **office@.com**
+- 📫 How to reach me **tariqulismail@yahoo.com**
 
 ---
 
