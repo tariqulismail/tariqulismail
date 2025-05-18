@@ -25,8 +25,8 @@
 </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/tariqulismail](https://github.com/tariqulismail)  
-- 💬 Ask me about **DevOps & Cloud DevOps**  
-- 📫 How to reach me **tariqulismail@yahoo.com**
+- 💬 Ask me about **DevOps & Cloud**  
+- 📫 How to reach me **[tariqulismail@yahoo.com](https://tariqulismail.com/)**
 
 ---
 
