@@ -4,7 +4,7 @@
   <img src="https://github.com/tariqulismail/tariqulismail/blob/main/BannerGit.png" alt=" Banner">
 </div>
 
-<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/channel/UCL8GxFP1_XB2Wa8--UaMipw" target="_blank">CodePlay</a></h3>
+<h3 align="center">A passionate DevOps Engineer from Bangladesh. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/channel/UCL8GxFP1_XB2Wa8--UaMipw" target="_blank">CodePlay</a></h3>
 
 <p align="center">
   <a href="https://github.com/tariqulismail">
